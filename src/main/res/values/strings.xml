@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">CinemaxIreland1</string>
+    <string name="menuCinema">Cinema</string>
+    <string name="menuMovies">Whats on</string>
+    <string name="menuOverview">Booking Overview</string>
+    <string name="cinemaxTitle">Welcome to Cinemax Ireland</string>
+    <string name="enterButton">Enter</string>
+    <string name="cinemaTitle">Cinema</string>
+    <string name="cinemaPageTitle">Cinemas Near You</string>
+    <string name="bookTicket">Book Tickets</string>
+    <string name="bookTicketButton">Continue</string>
+    <string name="paypal">PayPal</string>
+    <string name="direct">Direct</string>
+    <string name="amountOfTickets">Number of Tickets:</string>
+    <string name="bookingOverviewTitle">Booking Overview</string>
+    <string name="bookButton">Book</string>
+    <string name="paymentType">Payment Method</string>
+    <string name="defaultAmount">00</string>
+    <string name="defaultMethod">N/A</string>
+    <string name="date">N/A</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bookingName">Name</string>
+    <string name="updateButton">Update</string>
+    <string name="editBookingTitle">Edit Your Booking Details</string>
+    <string name="deleteDataButton">Delete All</string>
+
+
+</resources>

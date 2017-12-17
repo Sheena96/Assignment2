@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="ie.app.cinemaxireland1.CinemaxIrelandActivity">
+
+    <item
+        android:id="@+id/menuHome"
+        android:orderInCategory="100"
+        android:title="Home"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menuCinema"
+        android:orderInCategory="100"
+        android:title="@string/menuCinema"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuMovies"
+        android:orderInCategory="100"
+        android:title="@string/menuMovies"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuBookTickets"
+        android:orderInCategory="100"
+        android:title="Book Tickets"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/menuBookingOverview"
+        android:orderInCategory="100"
+        android:title="Booking Overview"
+        app:showAsAction="never" />
+
+
+</menu>
